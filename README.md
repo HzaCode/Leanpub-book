@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# (Working Title) — Writing in Public
+# (Working Title) — [Writing in Public](https://leanpub.com)
 *Public writing progress for a book-in-progress.*
 
 </div>
