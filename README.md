@@ -3,7 +3,7 @@
 <div align="center">
 
 # (Working Title) — [Writing in Public](https://leanpub.com)
-*Public writing progress for a book-in-progress.*
+*The public writing log for a book being published via [Leanpub](https://leanpub.com).*
 
 </div>
 
@@ -51,11 +51,7 @@
 ## Latest milestones
 > List key checkpoints only; update manually.
 
-<!-- Example (keep/remove as needed)
-- **2025-08-16** — Initialized public progress repo; established early-release workflow & submission conventions
-- **2025-08-XX** — Added first sample excerpts and reference links
-- **2025-09-XX** — Announced first end-to-end mini example
--->
+
 
 ---
 
