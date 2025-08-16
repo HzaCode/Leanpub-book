@@ -1,10 +1,16 @@
-
+<br/>
 
 <div align="center">
 
 # (Working Title) — Writing in Public
 *Public writing progress for a book-in-progress.*
 
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="#license"><img src="https://img.shields.io/badge/Text%20License-CC%20BY--NC%204.0-22c55e.svg" alt="Text License: CC BY-NC 4.0"></a>
 </div>
 
 <br/>
