@@ -79,6 +79,6 @@
 </p>
 
 <p align="center">
-  <sub>Links marked <b>TBA</b> will be added once live.</sub><br/>
+  <sub>Links（TBA) will be added once live.</sub><br/>
   <a href="#">Back to top ↑</a>
 </p>
